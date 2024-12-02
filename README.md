@@ -33,8 +33,7 @@ This React.js Weather Application provides real-time weather updates for any cit
    - Add your API keys in the following format:
 
      ```env
-     REACT_APP_RAPID_API_KEY=your-rapid-api-key
-     REACT_APP_OPENWEATHER_API_KEY=your-openweather-api-key
+     WEATHER_API_KEY = your-openweather-api-key
      ```
 
 3. Start the development server:
@@ -91,5 +90,5 @@ src/
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
+This project is licensed under the MIT License. See the `LICENSE` file for details.
